@@ -19,10 +19,10 @@
 
 ### 🧠 About Me
 
-I'm a Java Full Stack Developer based in Hyderabad, Telangana, with hands-on experience building end-to-end applications — from database schema design to REST APIs to React front ends. I enjoy working with Spring Boot microservices architectures and am currently deep in building **DealFinder**, a full-stack microservices deal-aggregation platform (React/Vite + Spring Boot API Gateway + downstream services) deployed on Render, with Redis caching, rate limiting, and Google Sign-In.
+I'm a Java Full Stack Developer based in Hyderabad, Telangana, with hands-on experience building end-to-end applications — from database schema design to REST APIs to React front ends. I'm currently going deep on **Spring Boot microservices** with a strong focus on backend architecture, and putting that into practice by building and deploying **DealFinder** (a full-stack microservices deal-aggregation platform) along with a lighter version, **DealFinderV2** — both live on Render.
 
-- 🔭 Currently building **DealFinder** — a microservices-based deal-finder app with caching, auth, and cloud deployment
-- 🌱 Currently deepening my React internals knowledge (Fiber, hooks, closures) and exploring Generative AI integrations
+- 🔭 Currently building **DealFinder** & **DealFinderV2** — full-stack microservices deal-finder apps with an API Gateway, Redis caching, rate limiting, and Google Sign-In, deployed on Render
+- 🌱 Deepening my backend skills — Spring Boot microservices architecture, API Gateway patterns, and service design
 - 💼 Previously interned as a Java Full Stack Developer at Sathya Technologies, building full-stack features and optimizing SQL performance
 - 🎓 B.Tech in Computer Science, JNTUA College of Engineering, Kalikiri (2019–2023)
 - ⚡ Fun fact: I like turning backend architecture diagrams into working, deployed systems — not just theory
@@ -78,6 +78,9 @@ I'm a Java Full Stack Developer based in Hyderabad, Telangana, with hands-on exp
 
 **[DealFinder](https://github.com/sisindr8)** — *React/Vite · Spring Boot · Redis · Render*
 Full-stack microservices deal-aggregation platform with an API Gateway, Google Sign-In, per-account favorites and search history, Redis caching, and rate limiting. Deployed end-to-end on Render.
+
+**[DealFinderV2](https://github.com/sisindr8)** — *React/Vite · Spring Boot · Render*
+A lighter, streamlined version of DealFinder — same core deal-aggregation concept, trimmed down for faster performance and simpler deployment. Also live on Render.
 
 **[ScanOps](https://github.com/sisindr8)** — *Java · Spring Boot · MySQL · React JS*
 Scalable OCR processing and QR validation platform built on a Spring Boot microservices architecture, with secure REST APIs for document scanning, data extraction, and QR verification, plus API Gateway and service discovery. Deployed with Docker.
